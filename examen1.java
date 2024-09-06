@@ -4,6 +4,7 @@ public class examen1 {
     public static void main(String[] args){
         Scanner cin=new Scanner(System.in);
 
+        System.out.println("este es un nuevo mensaje jjsjs");
         System.out.println("ingrese el primer numero:");
         int a=cin.nextInt();
         System.out.println("ingrese el segundo numero:");
